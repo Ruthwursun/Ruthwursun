@@ -1,36 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Ruthwursun%20N&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Ruthwursun%20N&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=19&descColor=a0c4ff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&random=false&width=720&height=55&lines=%F0%9F%A4%96+Building+Multi-Agent+AI+Systems;%F0%9F%94%A5+LangChain+%C2%B7+CrewAI+%C2%B7+ChromaDB+%C2%B7+Groq;%E2%9A%A1+LLM+Fine-Tuning+%C2%B7+LoRA+%C2%B7+Transformers;%F0%9F%9A%80+Open+to+AI%2FML+%26+GenAI+Roles+in+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&random=false&width=720&height=55&lines=%F0%9F%9B%B8+Launching+Multi-Agent+AI+Systems;%F0%9F%94%A5+LangChain+%C2%B7+CrewAI+%C2%B7+ChromaDB+%C2%B7+Groq;%E2%9A%A1+LLM+Fine-Tuning+%C2%B7+LoRA+%C2%B7+Transformers;%F0%9F%9A%80+Open+to+AI%2FML+%26+GenAI+Roles+in+India" alt="Typing SVG" />
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Ruthwursun&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Ruthwursun&label=👁️+Mission+Views&color=090979&style=flat-square&labelColor=020024"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Ruthwursun?label=Followers&style=flat-square&color=8b5cf6"/>
+<img src="https://img.shields.io/github/followers/Ruthwursun?label=🌌+Followers&style=flat-square&color=090979&labelColor=020024"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🛸 Mission Log
 
 ```python
-ruthwursun = {
-    "background":  "EEE Graduate → Self-Taught AI/ML Engineer",
-    "building":    "Production-grade multi-agent RAG & LLM-powered systems",
-    "learning":    ["LLM Fine-Tuning (LoRA / QLoRA)", "Transformer Internals", "MLOps"],
-    "seeking":     "AI/ML Engineer & GenAI Developer roles — Bangalore / Chennai / Remote",
-    "deployed":    "huggingface.co/spaces/Ruthwursun/MultiAgent_Rag_Chatbot",
-    "fun_fact":    "Switched from EEE circuits to neural networks — same concept, smarter scale 😄"
+# ═══════════════════════════════════════════════════════════
+#   RUTHWURSUN N  //  AI_ENGINEER  //  DEEP SPACE DIVISION
+# ═══════════════════════════════════════════════════════════
+
+mission = {
+    "pilot":       "Ruthwursun N  |  EEE Graduate → AI/ML Engineer",
+    "home_base":   "Chennai, TN  🌍  ›  Targeting Bangalore / Remote",
+    "systems":     ["Multi-Agent RAG", "LLM Engineering", "MLOps"],
+    "fuel":        ["CrewAI", "LangChain", "ChromaDB", "Groq", "LoRA / QLoRA"],
+    "coordinates": "huggingface.co/spaces/Ruthwursun/MultiAgent_Rag_Chatbot",
+    "log_entry":   "EEE circuits → Neural networks. Same electricity, smarter paths. 🚀"
 }
+
+status = "🟢  READY FOR DEPLOYMENT"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Core Systems — Tech Stack
 
-**Core AI / ML**
+**AI / ML**
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark"/>
 &nbsp;
@@ -40,14 +46,14 @@ ruthwursun = {
 
 **LLM & Agentic AI**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/CrewAI-090979?style=for-the-badge&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-020024?style=for-the-badge&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-4B0082?style=for-the-badge&logo=openai&logoColor=C792EA"/>
 
-**Apps & Deployment**
+**Deployment & Apps**
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white"/>
@@ -60,7 +66,7 @@ ruthwursun = {
 
 ---
 
-## 📊 GitHub Analytics
+## 🌌 Mission Analytics
 
 <div align="center">
 
@@ -70,47 +76,47 @@ ruthwursun = {
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruthwursun&theme=tokyonight&hide_border=true&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Ruthwursun&theme=tokyonight&hide_border=true&ring=00E5FF&fire=C792EA&currStreakLabel=00E5FF"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Orbit Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ruthwursun&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ruthwursun&theme=radical&no-frame=true&margin-w=6&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🪐 Transmission Signal — Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruthwursun&bg_color=0d1117&color=38BDF8&line=7aa2f7&point=C792EA&area=true&hide_border=true&area_color=1a2945"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruthwursun&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Deployed Missions — Projects
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 |
+| 🌠 Mission | 📡 Description | 🛠️ Systems | 🔗 |
 |:---|:---|:---|:---:|
-| 🤖 **Adaptive Multi-Agent RAG** | 4-agent CrewAI framework with Groq Llama 3.3 70B, ChromaDB retrieval & real-time web search fallback | CrewAI · LangChain · Groq · ChromaDB · Gradio | [▶ Live](https://huggingface.co/spaces/Ruthwursun/MultiAgent_Rag_Chatbot) &nbsp; [⌨ Code](https://github.com/Ruthwursun/Adaptive-RAG-Multi-Agent-Assistant) |
-| 🏠 **Home Loan Approval ML** | End-to-end ML classification pipeline — **78.05% accuracy, F1: 0.85** — with hyperparameter tuning | Scikit-learn · Pandas · GridSearchCV | [⌨ Code](https://github.com/Ruthwursun/loan-approval-prediction) |
-| 💬 **RAG Website Chatbot** | Web scraper + semantic search chatbot with context-aware LLM responses, zero hallucination design | BeautifulSoup4 · OpenRouter · ChromaDB | [⌨ Code](https://github.com/Ruthwursun/website-chatbot) |
+| 🤖 **Adaptive Multi-Agent RAG** | 4-agent CrewAI framework — Groq Llama 3.3 70B engine, ChromaDB vector store, real-time web search fallback | CrewAI · LangChain · Groq · ChromaDB · Gradio | [▶ Live](https://huggingface.co/spaces/Ruthwursun/MultiAgent_Rag_Chatbot) &nbsp; [⌨ Code](https://github.com/Ruthwursun/Adaptive-RAG-Multi-Agent-Assistant) |
+| 🏠 **Home Loan Approval ML** | End-to-end ML classification pipeline — **78.05% accuracy, F1: 0.85** — with GridSearchCV hyperparameter tuning | Scikit-learn · Pandas · Matplotlib | [⌨ Code](https://github.com/Ruthwursun/loan-approval-prediction) |
+| 💬 **RAG Website Chatbot** | Web scraper + semantic search chatbot with zero-hallucination, context-aware LLM responses | BeautifulSoup4 · OpenRouter · ChromaDB | [⌨ Code](https://github.com/Ruthwursun/website-chatbot) |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Orbit Path — Contribution Snake
 
 <div align="center">
 
@@ -124,20 +130,26 @@ ruthwursun = {
 
 ---
 
-## 📬 Connect
+## 📡 Open Comms — Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthwursun/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Ruthwursun/MultiAgent_Rag_Chatbot)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruthwursun)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruthwursun357@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020024?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/ruthwursun/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-090979?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/spaces/Ruthwursun/MultiAgent_Rag_Chatbot)
+[![GitHub](https://img.shields.io/badge/GitHub-020024?style=for-the-badge&logo=github&logoColor=C792EA)](https://github.com/Ruthwursun)
+[![Gmail](https://img.shields.io/badge/Gmail-020024?style=for-the-badge&logo=gmail&logoColor=FF79C6)](mailto:ruthwursun357@gmail.com)
 
 <br/>
-<i>"From EEE circuits to neural networks — the only difference is scale."</i> ⚡🤖
+
+```
+  ✦ . ˚    ·    ✦  ˚  ·    . ✦  ˚  ·    .
+     ✦   "EEE circuits → Neural networks.
+           Same electricity, smarter paths."  🚀
+  ·    ✦ . ˚    ·    ✦  ˚  ·    . ✦  ˚  ·
+```
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=130&section=footer"/>
